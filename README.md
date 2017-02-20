@@ -1,6 +1,18 @@
-## Welcome to GitHub Pages
+# 欢迎来到Softwareboy的个人博客
 
-You can use the [editor on GitHub](https://github.com/softwareboy92/softwareboy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+![](http://img3.imgtn.bdimg.com/it/u=1873754264,4107972960&fm=214&gp=0.jpg)  
 
+* 昵称：迪哥
+* 别名：迪哥
+* 英文名：softwareboy  
+  
+* 编程语言  
+  * Android  
+  * Java
+  * C
+  * C++
+    
+[我的CSDN博客](http://blog.csdn.net/lvzhongdi) 
 
+[我的GitHub博客](http://www.softwareboy.com.cn)
 
