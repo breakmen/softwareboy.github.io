@@ -1,14 +1,14 @@
        <br/>
-     <p style = "text-align:center"><font size="12px"><strong> 欢迎来到 Softwareboy 个人博客</font></strong> </p>
+       # 欢迎来到 Softwareboy 个人博客
 
-    <p style =  "text-align:center">![Shurnim icon](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1487610892056&di=01f6902530ce9985ec9f5c0a7770e764&imgtype=0&src=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2Fsinagames%2FMMFT%2Fimage%2Fmmft12%2F19.jpg)
+       ![Shurnim icon](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1487610892056&di=01f6902530ce9985ec9f5c0a7770e764&imgtype=0&src=http%3A%2F%2Fwww.sinaimg.cn%2Fgm%2Fsinagames%2FMMFT%2Fimage%2Fmmft12%2F19.jpg)
 
      <br/>
 
- ###博客网址：
-  [我的CSDN主页](http://blog.csdn.net/lvzhongdi) &nbsp; &nbsp; &nbsp; [我的GitHub库](www.softwareboy.com.cn)
+        ###博客网址：
+       [我的CSDN主页](http://blog.csdn.net/lvzhongdi) &nbsp; &nbsp; &nbsp; [我的GitHub库](www.softwareboy.com.cn)
 
- ## 目录  
+        ## 目录  
       * [个人简介](#个人简介)  
       * [公司简介](#公司简介)  
       * [项目简介](#项目简介)  
